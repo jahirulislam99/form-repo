@@ -1,0 +1,26 @@
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+title{
+    font-size: large;
+    color: rgba(30, 30, 191, 0.748);
+    font-style: italic;
+}
+legend{
+    color: brown;
+}
+Input{
+    margin-left: 10px;
+}
+label{
+    color: rgba(255, 0, 0, 0.595);
+}
+::placeholder{
+    color: green;
+}
+h5{
+    text-decoration: underline;
+    text-align: center;
+    color: crimson;
+}
